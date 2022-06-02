@@ -1,4 +1,5 @@
-# vue-ipaybtccryptoinfrastructure
+# vue-ipaybtccryptoinfrastructure: This Application read from records from ipaybtccryptoinfrastructure, display the transaction details and route to bitcoin and ethereum 
+transaction details platform
 
 ## Project setup
 ```
